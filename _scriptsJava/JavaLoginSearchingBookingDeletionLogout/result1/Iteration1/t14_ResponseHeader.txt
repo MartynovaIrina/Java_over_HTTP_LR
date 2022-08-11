@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Thu, 11 Aug 2022 07:39:54 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Wed, 10 Aug 2022 07:39:54 GMT
+Set-Cookie: MTUserInfo=firstName&Jojo46&username&jojo46&address2&9849&hash&54&expDate&4%2F25&creditCard&25869752&address1&Tverskaya%2046&lastName&Bean46%0A; path=/
+Keep-Alive: timeout=5, max=85
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

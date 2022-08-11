@@ -1,0 +1,8 @@
+Error: search current JDK in Windows registry at(SOFTWARE\JavaSoft\Java Development Kit)	[MsgId: MMSG-22198]	[MsgId: MERR-22986]
+Error: Failed to execute C:/Program Files (x86)/Java/jdk1.8.0_211/bin/java	[MsgId: MMSG-22191]	[MsgId: MERR-22986]
+Error: search in JAVA_HOME	[MsgId: MMSG-22197]	[MsgId: MERR-22986]
+Error: Failed to execute C:/Program Files (x86)/Java/jdk1.8.0_211/bin/java	[MsgId: MMSG-22191]	[MsgId: MERR-22986]
+Error: search in PATH	[MsgId: MMSG-22197]	[MsgId: MERR-22986]
+Error: JDK not found	[MsgId: MMSG-22199]	[MsgId: MERR-22986]
+Warning: Extension java_int.dll reports error -1 on call to function ExtPerThreadInitialize	[MsgId: MWAR-10485]
+Error: Vuser failed to initialize extension java_int.dll.	[MsgId: MERR-10700]

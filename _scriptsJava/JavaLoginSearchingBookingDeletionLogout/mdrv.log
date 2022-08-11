@@ -1,0 +1,10 @@
+Notify: search current JDK in Windows registry at(SOFTWARE\JavaSoft\Java Development Kit)
+Notify: JDK found at C:/Program Files (x86)/Java/jdk1.8.0_211
+2022-08-11 10:39:50.183 : URL = localhost:1080
+2022-08-11 10:39:50.419 : - Iteration: 1
+2022-08-11 10:39:50.435 :   Account: jojo46/bean46
+Warning! Web support not loaded: check Java-Interpreter -> UtilityExt property in mdrv.dat file
+2022-08-11 10:39:52.322 :   Login completed
+2022-08-11 10:39:54.208 :   Flights have been booked: outbound(flight ¹; price; date): 760;162;08/11/2022,return(flight ¹; price; date): 672;154;08/18/2022 for Jojo46 Bean46
+2022-08-11 10:39:55.239 :   Booking to delete: 1 booking 361204508-961655-JB
+2022-08-11 10:39:56.395 :   Logout completed

@@ -1,0 +1,52 @@
+[
+    {
+        "transactionName": "01_loadHomePage",
+        "rawStartTime": 1660203590451,
+        "rawEndTime": 1660203591576
+    },
+    {
+        "transactionName": "02_makeLogin",
+        "rawStartTime": 1660203591607,
+        "rawEndTime": 1660203592306
+    },
+    {
+        "transactionName": "03_openFlightsPage",
+        "rawStartTime": 1660203592355,
+        "rawEndTime": 1660203592847
+    },
+    {
+        "transactionName": "04_findFlight",
+        "rawStartTime": 1660203593353,
+        "rawEndTime": 1660203593573
+    },
+    {
+        "transactionName": "05_selectFlight",
+        "rawStartTime": 1660203593731,
+        "rawEndTime": 1660203593922
+    },
+    {
+        "transactionName": "06_makePayment",
+        "rawStartTime": 1660203593954,
+        "rawEndTime": 1660203594192
+    },
+    {
+        "transactionName": "07_returnToHomepage",
+        "rawStartTime": 1660203594240,
+        "rawEndTime": 1660203594588
+    },
+    {
+        "transactionName": "08_goToItinerary",
+        "rawStartTime": 1660203594620,
+        "rawEndTime": 1660203595095
+    },
+    {
+        "transactionName": "09_deleteBooking",
+        "rawStartTime": 1660203595127,
+        "rawEndTime": 1660203595998
+    },
+    {
+        "transactionName": "10_makeLogout",
+        "rawStartTime": 1660203596029,
+        "rawEndTime": 1660203596379
+    }
+]

@@ -1,0 +1,36 @@
+[Scenario]
+Product=HPE LoadRunner Controller
+Version=12.55.0.0
+Path=C:\Users\katal\Documents\VuGen\Scripts\_scenarioJava\20220428_MaxPerf_1.lrs
+Subject=20220428_MaxPerf_1
+Result_file=c:\users\katal\documents\vugen\scripts\_results\20220504_MaxPerf001012\20220504_MaxPerf001012.lrr
+Description=
+ResultName=20220504_MaxPerf001012
+Time_Zone=-10800
+Start_time=1660161016
+Daylight_Bias=0
+Stop_time=1660183856
+[Configuration]
+Public_local=1
+Is_mix=1
+Is_runner_file=0
+Runner_file=
+[Running_mode]
+Start_reason=By command
+Stop_reason=By a user
+[Data Collection]
+FullData=1
+[Scenario_summary]
+Scenario Type=Manual Scenario
+Goal Profile Name=Group schedule for: loginsearchingbookingdeletnlogout
+Mode=Group Scheduling
+Scenario Duration=Unknown duration
+Load Behavior=Defined per scenario group
+[Scripts]
+JavaLoginLogout_1=C:\Users\katal\Documents\VuGen\Scripts\_scriptsJava\JavaLoginLogout\JavaLoginLogout.usr
+JavaLoginSearchingLogout_1=C:\Users\katal\Documents\VuGen\Scripts\_scriptsJava\JavaLoginSearchingLogout\JavaLoginSearchingLogout.usr
+JavaLoginSearchingBookingDeletionLogout=C:\Users\katal\Documents\VuGen\Scripts\_scriptsJava\JavaLoginSearchingBookingDeletionLogout\JavaLoginSearchingBookingDeletionLogout.usr
+[Scripts_types]
+JavaLoginLogout_1=JavaHTTP
+JavaLoginSearchingLogout_1=JavaHTTP
+JavaLoginSearchingBookingDeletionLogout=JavaHTTP

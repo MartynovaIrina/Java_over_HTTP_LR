@@ -1,0 +1,17 @@
+[
+    {
+        "transactionName": "01_loadHomePage",
+        "rawStartTime": 1660137756652,
+        "rawEndTime": 1660137757765
+    },
+    {
+        "transactionName": "02_makeLogin",
+        "rawStartTime": 1660137764824,
+        "rawEndTime": 1660137765507
+    },
+    {
+        "transactionName": "10_makeLogout",
+        "rawStartTime": 1660137771435,
+        "rawEndTime": 1660137771817
+    }
+]

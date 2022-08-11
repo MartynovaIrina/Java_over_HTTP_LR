@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "01_loadHomePage",
+        "rawStartTime": 1660137657363,
+        "rawEndTime": 1660137658463
+    },
+    {
+        "transactionName": "02_makeLogin",
+        "rawStartTime": 1660137672346,
+        "rawEndTime": 1660137672963
+    },
+    {
+        "transactionName": "03_openFlightsPage",
+        "rawStartTime": 1660137678660,
+        "rawEndTime": 1660137679212
+    },
+    {
+        "transactionName": "04_findFlight",
+        "rawStartTime": 1660137691447,
+        "rawEndTime": 1660137691729
+    },
+    {
+        "transactionName": "05_selectFlight",
+        "rawStartTime": 1660137697335,
+        "rawEndTime": 1660137697541
+    },
+    {
+        "transactionName": "10_makeLogout",
+        "rawStartTime": 1660137701669,
+        "rawEndTime": 1660137702002
+    }
+]

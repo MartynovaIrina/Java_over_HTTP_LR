@@ -1,0 +1,14 @@
+<?xml version="1.0" ?> 
+<Items>
+	<Item>
+		<ProtocolID>JavaHTTP</ProtocolID>
+		<EventID>0</EventID>
+		<Type>0</Type>
+		<Action>Actions</Action>
+		<StepName>Generating Java code</StepName>
+		<Description>Could not find JRE</Description>
+		<DescriptionDetails>JRE(Java Runtime Environment) is needed for codegen, JDK will be needed for compiling the generated script.</DescriptionDetails>
+		<RecommendedAction>Install JDK 1.5+</RecommendedAction>
+		<RecommendedActionDetails>Please install JDK1.5+ on the machine and restart Vugen.</RecommendedActionDetails>
+	</Item>
+</Items>

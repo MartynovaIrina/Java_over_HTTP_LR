@@ -1,0 +1,1623 @@
+[API Trapper      ( 864:371c)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[API Trapper      ( a74:2e4c)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer ( a74:1b24)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( a74:1b24)] Load Network Traffic Analyzers:
+[Network Analyzer ( a74:1b24)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( a74:1b24)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( a74:1b24)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( a74:1b24)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( a74:1b24)]     Analyzer Module: QTWeb4J (value=)
+[Network Analyzer ( a74:1b24)]     Analyzer Module: JavaHTTP (value=)
+[Network Analyzer ( a74:1b24)]     Analyzer Module: local_server (value=)
+[Network Analyzer ( a74:1b24)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( a74:4288)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Net An. Debug    ( a74:4288)] IP address belongs to the VirtualBox, taking the another interface with ip=172.28.32.1
+[Network Analyzer ( a74:1b24)] Establish Listener @ 127.0.0.1:2427
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:2427   (Service=)  (Sid=  2)  PROXIED!
+[API Trapper      ( 498:42d4)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\firefox.exe
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /canonical.html"   
+[Network Analyzer ( a74:4288)]   (Sid:  4) Client -> Server @ : 324 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/"   
+[Network Analyzer ( a74:4288)]   (Sid:  3) Client -> Server @ : 476 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  3) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  4) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /success.txt?ipv4"   
+[Network Analyzer ( a74:4288)]   (Sid:  5) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  5) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[API Trapper      ( 108:171c)] Recording in 64-bit mode: C:\Program Files\Mozilla Firefox\minidump-analyzer.exe
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 104.16.249.249:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid:  6) Client -> Server @ : 706 bytes 
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 104.16.249.249:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 104.16.249.249:443   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  7) Client -> Server @ : 517 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  8) Client -> Server @ : 706 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  6) Server -> Client : 3289 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  7) Server -> Client : 3212 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  8) Server -> Client : 3289 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  7) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  9) Client -> Server @ : 708 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid:  9) Server -> Client : 1430 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  9) Server -> Client : 3142 bytes 
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 13.33.243.114:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Client -> Server @ : 216 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid: 10) Server -> Client : 1440 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Server -> Client : 1440 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Server -> Client : 1019 bytes 
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 104.16.249.249:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Client -> Server @ : 93 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 15) Client -> Server @ : 710 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 14) Client -> Server @ : 517 bytes 
+[Web Request      ( a74:4288)] "GET /favicon.ico"   
+[Network Analyzer ( a74:4288)]   (Sid: 13) Client -> Server @ : 413 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 10) Server -> Client : 240 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/header.html"   
+[Network Analyzer ( a74:4288)]   (Sid: 12) Client -> Server @ : 513 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 13) Server -> Client : 425 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 15) Server -> Client : 3430 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer ( a74:4288)]   (Sid: 11) Client -> Server @ : 524 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 12) Server -> Client : 1008 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 14) Server -> Client : 3213 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 11) Server -> Client : 1026 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 211 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 16) Client -> Server @ : 211 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Server -> Client : 3351 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 16) Server -> Client : 3351 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 34.214.110.180:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 93 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 16) Client -> Server @ : 93 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 18) Client -> Server @ : 702 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 16) Server -> Client : 347 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Server -> Client : 347 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( a74:4288)]   (Sid: 12) Client -> Server @ : 565 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/home.html"   
+[Network Analyzer ( a74:4288)]   (Sid: 11) Client -> Server @ : 561 bytes (Service=HTTP)
+[Web Request      ( a74:4288)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer ( a74:4288)]   (Sid: 13) Client -> Server @ : 468 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 11) Server -> Client : 1659 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid: 13) Server -> Client : 899 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 18) Server -> Client : 3506 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer ( a74:4288)]   (Sid: 13) Client -> Server @ : 469 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 13) Server -> Client : 4487 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 18) Client -> Server @ : 126 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid: 12) Server -> Client : 1745 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 12) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 104.16.249.249:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 20) Client -> Server @ : 706 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 19) Client -> Server @ : 710 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 13) Client -> Server @ : 472 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 13) Server -> Client : 976 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 19) Server -> Client : 3430 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 20) Server -> Client : 3288 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 18) Server -> Client : 51 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Client -> Server @ : 496 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Client -> Server @ : 38 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid: 10) Server -> Client : 5762 bytes 
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 2.16.53.25:80   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "POST /"   
+[Network Analyzer ( a74:4288)]   (Sid: 22) Client -> Server @ : 446 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 22) Server -> Client : 889 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 93.184.220.29:80   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "POST /"   
+[Network Analyzer ( a74:4288)]   (Sid: 23) Client -> Server @ : 447 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 23) Server -> Client : 799 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 12) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 177 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 378 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 412 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 16) Client -> Server @ : 194 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 13) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Server -> Client : 38 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 16) Server -> Client : 38 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 531 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 93.184.220.29:80   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 38 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "POST /"   
+[Network Analyzer ( a74:4288)]   (Sid: 23) Client -> Server @ : 447 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "POST /"   
+[Network Analyzer ( a74:4288)]   (Sid: 24) Client -> Server @ : 447 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 16) Client -> Server @ : 31 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid: 23) Server -> Client : 799 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 18) Server -> Client : 31 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 18) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 24) Server -> Client : 799 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 93.184.220.29:80   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid: 17) Server -> Client : 458 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 104.16.249.249:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 706 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "POST /"   
+[Network Analyzer ( a74:4288)]   (Sid: 25) Client -> Server @ : 447 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Server -> Client : 74 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 1460 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 25) Server -> Client : 739 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 1829 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 93.184.220.29:80   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 834 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 64 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 170 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 528 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 310 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 31 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 31 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 629 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Server -> Client : 91 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 154 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 637 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 56 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 159 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 555 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 56 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 159 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 532 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 56 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 159 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 532 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Server -> Client : 91 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 154 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 688 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 215 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 532 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 215 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 215 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 567 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 567 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Server -> Client : 91 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 56 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 159 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 555 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 215 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 555 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 56 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 159 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 532 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 52.39.43.50:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 28) Client -> Server @ : 702 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 56 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 159 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 532 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 27) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid: 28) Server -> Client : 3506 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 28) Client -> Server @ : 126 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 28) Server -> Client : 51 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 28) Client -> Server @ : 658 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 28) Server -> Client : 158 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 28) Client -> Server @ : 146 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 28) Server -> Client : 144 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 02_makeLogin [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "POST /cgi-bin/login.pl"   
+[Network Analyzer ( a74:4288)]   (Sid: 29) Client -> Server @ : 786 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 29) Server -> Client : 862 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 29) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( a74:4288)]   (Sid: 29) Client -> Server @ : 685 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( a74:4288)]   (Sid: 30) Client -> Server @ : 680 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 29) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 29) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 29) Client -> Server @ : 605 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 29) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 30) Server -> Client : 1159 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 29) Client -> Server @ : 607 bytes (Service=HTTP)
+[Web Request      ( a74:4288)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 30) Client -> Server @ : 605 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 29) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 30) Server -> Client : 985 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 31) Client -> Server @ : 605 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 31) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 30) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid: 29) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid: 31) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 32) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid: 33) Connection Terminated (by Client)
+[User action                 ] EndTransactionEvent 02_makeLogin [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 1675 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 1577 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 56 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 159 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 555 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 56 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 159 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 532 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 215 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 567 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Server -> Client : 91 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /canonical.html"   
+[Network Analyzer ( a74:4288)]   (Sid:  4) Client -> Server @ : 324 bytes (Service=HTTP)
+[User action                 ] StartTransactionEvent 03_openFlightsPage [Network Analyzer ( a74:4288)]   (Sid:  4) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /success.txt?ipv4"   
+[Network Analyzer ( a74:4288)]   (Sid:  5) Client -> Server @ : 326 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  5) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer ( a74:4288)]   (Sid: 34) Client -> Server @ : 719 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 34) Server -> Client : 839 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 34) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer ( a74:4288)]   (Sid: 34) Client -> Server @ : 702 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer ( a74:4288)]   (Sid: 35) Client -> Server @ : 703 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 34) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 34) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 34) Client -> Server @ : 611 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 34) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/home.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 34) Client -> Server @ : 605 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 34) Server -> Client : 985 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 35) Server -> Client : 4521 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 35) Client -> Server @ : 613 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid: 35) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 38)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 03_openFlightsPage [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 34) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid: 35) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid: 37) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid: 38) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Client -> Server @ : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Server -> Client : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 04_findFlight [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 39)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( a74:4288)]   (Sid: 39) Client -> Server @ : 1068 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 40)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 39) Server -> Client : 3844 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 39) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 04_findFlight [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 39) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 40) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent 05_selectFlight [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 41)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( a74:4288)]   (Sid: 41) Client -> Server @ : 988 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 41) Server -> Client : 3021 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 41) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 39 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 39 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Server -> Client : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 05_selectFlight [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 41) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 06_makePayment [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Client -> Server @ : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Server -> Client : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 42)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer ( a74:4288)]   (Sid: 42) Client -> Server @ : 1157 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 42) Server -> Client : 2954 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 42) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/bookanother.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 42) Client -> Server @ : 597 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 42) Server -> Client : 1103 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 06_makePayment [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 42) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 07_returnToHomepage [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 43)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer ( a74:4288)]   (Sid: 43) Client -> Server @ : 718 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 43) Server -> Client : 819 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 43) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer ( a74:4288)]   (Sid: 43) Client -> Server @ : 695 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 44)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer ( a74:4288)]   (Sid: 44) Client -> Server @ : 690 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 43) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 43) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 44) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 44) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 07_returnToHomepage [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 43) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid: 44) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 3 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Client -> Server @ : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 39 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 39 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 17) Server -> Client : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  4) Connection Terminated (by Client)
+[User action                 ] StartTransactionEvent 08_goToItinerary [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 45)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/welcome.pl?page=itinerary"   
+[Network Analyzer ( a74:4288)]   (Sid: 45) Client -> Server @ : 719 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 45) Server -> Client : 814 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 45) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/nav.pl?page=menu&in=itinerary"   
+[Network Analyzer ( a74:4288)]   (Sid: 45) Client -> Server @ : 704 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 46)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/itinerary.pl"   
+[Network Analyzer ( a74:4288)]   (Sid: 46) Client -> Server @ : 687 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 45) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 45) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/in_itinerary.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 45) Client -> Server @ : 612 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 45) Server -> Client : 1030 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:4288)]   (Sid: 46) Server -> Client : 5292 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 46) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 47)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/cancelreservation.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 46) Client -> Server @ : 600 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/images/cancelallreservations.gif"   
+[Network Analyzer ( a74:4288)]   (Sid: 45) Client -> Server @ : 604 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 46) Server -> Client : 1128 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 45) Server -> Client : 1039 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[User action                 ] EndTransactionEvent 08_goToItinerary [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Client -> Server @ : 46 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Client -> Server @ : 31 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 45) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid: 46) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 47) Connection Terminated (by Client)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 09_deleteBooking [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 48)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "POST /cgi-bin/itinerary.pl"   
+[Network Analyzer ( a74:4288)]   (Sid: 48) Client -> Server @ : 961 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 48) Server -> Client : 4085 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 48) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 09_deleteBooking [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 48) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent 10_makeLogout [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 49)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer ( a74:4288)]   (Sid: 49) Client -> Server @ : 719 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 49) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 49) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer ( a74:4288)]   (Sid: 49) Client -> Server @ : 562 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:1b24)] Address lookup for DESKTOP-2GRPG1K = 192.168.56.1
+[Network Analyzer ( a74:1b24)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 50)  PROXIED!
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      ( a74:4288)] "GET /WebTours/home.html"   
+[Network Analyzer ( a74:4288)]   (Sid: 50) Client -> Server @ : 658 bytes (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 50) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 49) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid: 49) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 56 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 159 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 56 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 159 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 56 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Client -> Server @ : 159 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 35 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 555 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 532 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 26) Server -> Client : 532 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent 10_makeLogout [Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid: 50) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid: 49) Connection Terminated (by Server)
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer ( a74:4288)]   (Sid:  2) Client -> Server @ : 1 bytes 

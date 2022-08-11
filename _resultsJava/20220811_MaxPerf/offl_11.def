@@ -1,0 +1,18 @@
+[Graph definition]
+count=1
+GraphTitle=Текущая пропускная способность (Сетевой интерфейс Qualcomm QCA9377 802.11ac Wireless Adapter)
+DataPointLabel_1=offline_datapoint_11
+LineTitle_1=localhost
+LineGroup_1=0
+YAxisTitle=Текущая пропускная способность (Сетевой интерфейс Qualcomm QCA9377 802.11ac Wireless Adapter)
+GraphGroupMenuTitle=Windows Resources
+XAxisTitle=Elapsed Scenario Time (seconds)
+XAxisIsElapsedTime=TRUE
+LineType=NOSTEP
+BuildUnderLoadGraph=TRUE
+AggregateFunction=AVG
+MissingData=PREVIOUS
+GranularityMode=NOTINCLUDEZERO
+NoDataBehavior=RemoveGraph
+GraphType=es_rm_svr_res_nt
+DataPointDescr_1=Текущая пропускная способность (bandwidth) - это оценка текущей пропускной способности интерфейса в бодах (бит/сек). Для интерфейсов с неизменной пропускной способностью или в тех случаях, когда ее точная оценка невозможна, это значение номинальной пропускной способности.

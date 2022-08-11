@@ -1,0 +1,8 @@
+Notify: search current JDK in Windows registry at(SOFTWARE\JavaSoft\Java Development Kit)
+Notify: JDK found at C:/Program Files (x86)/Java/jdk1.8.0_211
+2022-08-10 16:22:36.396 : URL = localhost:1080
+2022-08-10 16:22:36.619 : - Iteration: 1
+2022-08-10 16:22:36.635 :   Account: jojo1/bean1
+Warning! Web support not loaded: check Java-Interpreter -> UtilityExt property in mdrv.dat file
+2022-08-10 16:22:45.523 :   Login completed
+2022-08-10 16:22:51.832 :   Logout completed

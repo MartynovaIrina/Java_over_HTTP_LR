@@ -1,0 +1,7 @@
+2022-08-11 10:37:49.698 : URL = localhost:1080
+2022-08-11 10:37:49.921 : - Iteration: 1
+2022-08-11 10:37:49.937 :   Account: jojo46/bean46
+Warning! Web support not loaded: check Java-Interpreter -> UtilityExt property in mdrv.dat file
+2022-08-11 10:37:51.908 :   Login completed
+2022-08-11 10:37:53.854 :   Flights have been booked: outbound(flight ¹; price; date): 240;108;08/11/2022,return(flight ¹; price; date): 421;97;08/18/2022 for Jojo46 Bean46
+Vuser Terminated.

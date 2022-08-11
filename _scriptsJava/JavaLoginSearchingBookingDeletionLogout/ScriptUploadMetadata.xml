@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VugenScriptMetadata>
+  <ScriptName>JavaLoginSearchingBookingDeletionLogout</ScriptName>
+  <Protocol>Java over HTTP</Protocol>
+  <ActionFiles>
+    <FileEntry Name="vuser_init.java" Filter="2" />
+    <FileEntry Name="Actions.java" Filter="2" />
+    <FileEntry Name="vuser_end.java" Filter="2" />
+  </ActionFiles>
+  <GeneralFiles>
+    <FileEntry Name="JavaLoginSearchingBookingDeletionLogout.usr" Filter="4" />
+    <FileEntry Name="default.cfg" Filter="4" />
+    <FileEntry Name="default.usp" Filter="4" />
+    <FileEntry Name="JavaLoginSearchingBookingDeletionLogout.prm" Filter="2" />
+    <FileEntry Name="globals.h" Filter="2" />
+    <FileEntry Name="224865003440.idx" Filter="1" />
+    <FileEntry Name="255807087440.idx" Filter="1" />
+    <FileEntry Name="69502184440.idx" Filter="1" />
+    <FileEntry Name="80871568440.idx" Filter="1" />
+    <FileEntry Name="82968720440.idx" Filter="1" />
+    <FileEntry Name="Action.c" Filter="1" />
+    <FileEntry Name="Actions.class" Filter="1" />
+    <FileEntry Name="Bookmarks.xml" Filter="1" />
+    <FileEntry Name="Breakpoints.xml" Filter="1" />
+    <FileEntry Name="CompilerLogMetadata.xml" Filter="1" />
+    <FileEntry Name="data.zip" Filter="1" />
+    <FileEntry Name="JavaFull.prm.bak" Filter="1" />
+    <FileEntry Name="JavaLoginSearchingBookingDeletionLogout.prm.bak" Filter="1" />
+    <FileEntry Name="JavaLoginSearchingBookingDeletionLogout.sdf" Filter="1" />
+    <FileEntry Name="logfile.log" Filter="1" />
+    <FileEntry Name="mdrv.log" Filter="1" />
+    <FileEntry Name="mdrv44E.51.log" Filter="1" />
+    <FileEntry Name="mdrv45w.573.log" Filter="1" />
+    <FileEntry Name="mdrv6Tv.83.log" Filter="1" />
+    <FileEntry Name="mdrvft3.745.log" Filter="1" />
+    <FileEntry Name="mdrvh1C.923.log" Filter="1" />
+    <FileEntry Name="mdrvitU.627.log" Filter="1" />
+    <FileEntry Name="mdrvoUd.207.log" Filter="1" />
+    <FileEntry Name="mdrvR1h.649.log" Filter="1" />
+    <FileEntry Name="mdrvsH1.277.log" Filter="1" />
+    <FileEntry Name="mdrvTGa.107.log" Filter="1" />
+    <FileEntry Name="mdrvW0j.275.log" Filter="1" />
+    <FileEntry Name="mdrvwTH.201.log" Filter="1" />
+    <FileEntry Name="mdrvwW5.913.log" Filter="1" />
+    <FileEntry Name="mdrv_cmd.txt" Filter="1" />
+    <FileEntry Name="output.bak" Filter="1" />
+    <FileEntry Name="output.txt" Filter="1" />
+    <FileEntry Name="OutputColoringDatabase.json" Filter="1" />
+    <FileEntry Name="ReplaySummaryReport.xml" Filter="1" />
+    <FileEntry Name="ScriptUploadMetadata.xml" Filter="1" />
+    <FileEntry Name="ThumbnailsCache.tmp" Filter="1" />
+    <FileEntry Name="UserTasks.xml" Filter="1" />
+    <FileEntry Name="vuser_end.c" Filter="1" />
+    <FileEntry Name="vuser_init.c" Filter="1" />
+    <FileEntry Name="data\" Filter="1" />
+    <FileEntry Name="result1\" Filter="1" />
+  </GeneralFiles>
+</VugenScriptMetadata>

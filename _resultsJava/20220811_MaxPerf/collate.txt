@@ -1,0 +1,5 @@
+[Diagnostics]
+Status=-1
+[Collate Recovery]
+Scenario=C:\Users\katal\Documents\VuGen\Scripts\_scenarioJava\20220428_MaxPerf_1.lrs
+Completed=0

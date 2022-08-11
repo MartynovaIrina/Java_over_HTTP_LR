@@ -1,0 +1,2 @@
+[Hosts]
+localhost=c:\users\katal\documents\vugen\scripts\_results\20220504_MaxPerf001012\localhost_73.eve
